@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hanaa Salah</h1>
-<h3 align="center">a Senior student at faculty of engineering Cairo Univercity, system and biomedical department</h3>
+<h3 align="center">A senior student at faculty of engineering Cairo Univercity, system and biomedical department</h3>
 
 - 🌱 I’m currently learning **Machine Learning**
 
