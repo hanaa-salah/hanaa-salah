@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hanaa Salah</h1>
 <h3 align="center">A senior student at faculty of engineering Cairo Univercity, system and biomedical department</h3>
-<a align="center"href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=24&color=207195&center=false&vCenter=false&lines=Welcome+to+my+GitHub+profile" alt="Typing SVG" /></a>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times&size=24&color=207195&center=true&width=1000&lines=Welcome+to+my+GitHub+profile)](https://git.io/typing-svg)
 
 - 🌱 I’m currently learning **Machine Learning**
 
