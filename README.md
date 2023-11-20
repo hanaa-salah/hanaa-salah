@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hanaa Salah</h1>
-<h3 align="center">A senior student at faculty of engineering Cairo Univercity, System and Biomedical department</h3>
+<h3 align="center">Graduated from faculty of engineering Cairo Univercity, System and Biomedical department</h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times&size=100&color=207195&center=true&width=1500&height=400&lines=Welcome+to+my+GitHub+profile)](https://git.io/typing-svg)
 
